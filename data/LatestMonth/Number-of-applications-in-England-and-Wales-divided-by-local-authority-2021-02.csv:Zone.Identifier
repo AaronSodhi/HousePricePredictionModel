@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://use-land-property-data.service.gov.uk/
+HostUrl=https://datapub-prd-s3-bucket.s3.amazonaws.com/td/Number-of-applications-in-England-and-Wales-divided-by-local-authority-2021-02.csv?response-content-type=application%2Fforce-download&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIASNNJI2YGUWCWQTWF%2F20210225%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210225T182153Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=39e81da116cd0c0e34ff7f55dd5a875c5449e136a86dae51d28fa4f1ba33cd4f
